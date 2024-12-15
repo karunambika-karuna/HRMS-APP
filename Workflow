@@ -1,0 +1,10 @@
+WORK FLOW:
+
+
+
+1.IN app folder in main direcotry youwill find all the js  files which is the UI of app
+2.index.js is the mani root which has navigation stcaks
+3.Buttons,js is the page that loads after sign which contains the page for Profile,Attendnace,leave request
+4.profile.js is the profile of user loaded via get api
+5.Attenance.js whichh is loaded via orange color button in Buttons.js loads the attendace page and uses post api
+Leave request handles the property of applying leave .
